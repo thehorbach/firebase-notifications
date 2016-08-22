@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>12645501225-1r33sb2c2lf44vllmth629mei87cf81s.apps.googleusercontent.com</string>
+	<string>1004017888415-p10ek31chgr4lq6le0345iqkp645p98l.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.12645501225-1r33sb2c2lf44vllmth629mei87cf81s</string>
+	<string>com.googleusercontent.apps.1004017888415-p10ek31chgr4lq6le0345iqkp645p98l</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAoMbf7F5AVqxpNy5E05mzYPtRHgxQv1lw</string>
+	<string>AIzaSyDefe6AEY-OR4ovI7imLCx50_CR4F7OkK0</string>
 	<key>GCM_SENDER_ID</key>
-	<string>12645501225</string>
+	<string>1004017888415</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.VyacheslavHorbach.push-my-notifications</string>
 	<key>PROJECT_ID</key>
-	<string>push-my-notifications</string>
+	<string>push-my-notifications-e1c88</string>
 	<key>STORAGE_BUCKET</key>
-	<string>push-my-notifications.appspot.com</string>
+	<string>push-my-notifications-e1c88.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:12645501225:ios:8ab12dd4f4b64045</string>
+	<string>1:1004017888415:ios:8ab12dd4f4b64045</string>
 	<key>DATABASE_URL</key>
-	<string>https://push-my-notifications.firebaseio.com</string>
+	<string>https://push-my-notifications-e1c88.firebaseio.com</string>
 </dict>
 </plist>
